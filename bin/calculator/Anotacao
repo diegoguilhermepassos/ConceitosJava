@@ -1,0 +1,13 @@
+Crie um projeto que realiza calculos basicos de matematica
+
+1 - Voce deve criar uma classe calculadora que deve efetuar Soma, Subtracao, Divisao, Multiplicacao.
+Que funções essa classe deve ter?
+
+As operações recebem parametros sempre dois numeros. ex: Somar 2 + 3, voce deve criar uma função soma que recebe 2 e 3 e devolve 5 como resultado.
+
+Repita o mesmo raciocinio pra todos os outros calculos.
+
+2 - Crie uma classe de teste onde o usuario informa o tipo de função que quer 
++ : Soma, * : Multiplicacao, / : Divisao, - Subtracao.
+Depois ele informa os numeros e a calculadora informa o resultado da operação
+ 
